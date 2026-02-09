@@ -17,6 +17,9 @@ A lightweight Laboratory Information Management System (LIMS) prototype built wi
 - SQLite (default, can switch to PostgreSQL)
 - HTML/CSS via Django Admin (for admin interface)
 
+## Demo
+https://github.com/priyankabwankhede-sketch/research-sample-registry/releases/tag/v1.0.0
+
 ## How to Run
 
 1. Clone the repository
@@ -42,4 +45,5 @@ This mini-project is ideal for demonstrating:
 
 - Django ORM usage for relational data
 - Sample lifecycle and workflow management
+
 - Preparation for adding RBAC, automated tests, EDC/clinical data handling, and AI-assisted anomaly detection
